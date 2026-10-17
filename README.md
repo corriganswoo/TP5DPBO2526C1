@@ -91,17 +91,17 @@ Klik tombol "Cancel" untuk mengosongkan semua input form.
 
 # 📸 DOKUMENTASI
 ## READ
-![Read Data](assets/Read.png)
+![Read Data](Dokumentasi/read.png)
 
 ## ADD
 ### Insert
 ![Insert Data](Dokumentasi/add.gif)
 
 ### Insert ID yang sudah ada
-![Insert Duplicate ID](Dokumentasi/add id sudah terdaftar.gif)
+![Insert Duplicate ID](Dokumentasi/add_non_unique.gif)
 
 ### Insert tapi salah satu form ada yang kosong
-![Insert Empty Form](Dokumentasi/add ada yang kosong.gif)
+![Insert Empty Form](Dokumentasi/add_empty.gif)
 
 
 ## UPDATE
@@ -109,7 +109,7 @@ Klik tombol "Cancel" untuk mengosongkan semua input form.
 ![Update Data](Dokumentasi/update.gif)
 
 ### Update tapi salah satu form ada yang kosong
-![Update Empty Form](Dokumentasi/update ada yang kosong.gif)
+![Update Empty Form](Dokumentasi/update_empty.gif)
 
 
 ## DELETE
