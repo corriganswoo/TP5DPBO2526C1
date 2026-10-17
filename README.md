@@ -95,22 +95,22 @@ Klik tombol "Cancel" untuk mengosongkan semua input form.
 
 ## ADD
 ### Insert
-![Insert Data](assets/insert.gif)
+![Insert Data](Dokumentasi/add.gif)
 
 ### Insert ID yang sudah ada
-![Insert Duplicate ID](assets/insert-non-unique.png)
+![Insert Duplicate ID](Dokumentasi/add id sudah terdaftar.gif)
 
 ### Insert tapi salah satu form ada yang kosong
-![Insert Empty Form](assets/insert-non-filled.png)
+![Insert Empty Form](Dokumentasi/add ada yang kosong.gif)
 
 
 ## UPDATE
 ### Update
-![Update Data](assets/update.gif)
+![Update Data](Dokumentasi/update.gif)
 
 ### Update tapi salah satu form ada yang kosong
-![Update Empty Form](assets/update-non-filled.png)
+![Update Empty Form](Dokumentasi/update ada yang kosong.gif)
 
 
 ## DELETE
-![Delete Data](assets/delete.gif)
+![Delete Data](Dokumentasi/delete.gif)
