@@ -33,6 +33,8 @@ Method:
 ### 2. Class PeopleMenu extends JFrame<br>
 Class ini berisi Graphical User Interface (GUI) dari program, berfungsi untuk mengatur GUI, serta method untuk insert, update, dan delete.<br>
 
+![GUI](Dokumentasi/gui.png)
+
 Class ini mengatur tampilan dan logika aplikasi berbasis GUI.
 Berfungsi untuk menampilkan form, menampung event handler, serta mengatur integrasi ke database.
 
